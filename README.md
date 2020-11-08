@@ -3,6 +3,7 @@
 - │index.html -- html结构
   │script.js -- js文件
   │style.css -- css样式
+  │image -- 背景图片
 
 ## #JS中  ”+“ 号的用法
 
