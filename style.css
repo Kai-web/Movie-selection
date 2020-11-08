@@ -8,7 +8,8 @@ h1{
 }
 
 body{
-    background-color: #242333;
+    background-image: url(./image/5b40679e0e912.jpg);
+    background-size: cover;
     color: #fff;
     display: flex;
     flex-direction: column;
